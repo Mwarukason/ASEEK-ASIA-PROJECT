@@ -9,5 +9,5 @@ ReactJS Slide show
 ###-Enjoy the show :P.
 
 ##Description of the Project.
-####-It's simple project for slide show of the dynamic and interactive Title, Picture and Companny title.
-####-The idea is to utilize the use of Components to split the User Interface into independent, reusable pieces, and think each piece is ####completely usable and isolated. 
+-It's simple project for slide show of the dynamic and interactive Title, Picture and Companny title.
+-The idea is to utilize the use of Components to split the User Interface into independent, reusable pieces, and think each piece is completely usable and isolated. 
