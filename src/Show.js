@@ -48,7 +48,6 @@ var ShowInfo = React.createClass({
   }
 });
 
-//
 var Show = React.createClass({
   //initialize the index = 0
   getDefaultProps: function() {

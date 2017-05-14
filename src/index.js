@@ -1,6 +1,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var shows = require('./shows.json')//other file not js must be specified extension eg. json else wont be recognised
+var shows = require('./shows.json')
 var Show = require('./Show');
 
 //render Component using JSX form
